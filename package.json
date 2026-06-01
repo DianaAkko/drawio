@@ -1,0 +1,21 @@
+{
+  "name": "drawio",
+  "version": "0.1.0",
+  "description": "A diagram and chart drawing application",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Start development server\"",
+    "build": "echo \"Build for production\"",
+    "preview": "echo \"Preview production build\"",
+    "test": "echo \"Run tests\"",
+    "lint": "echo \"Run linter\""
+  },
+  "keywords": [
+    "diagram",
+    "drawing",
+    "visualization"
+  ],
+  "author": "DianaAkko",
+  "license": "MIT",
+  "devDependencies": {}
+}
